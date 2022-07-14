@@ -1,0 +1,8 @@
+{
+  "name": "zoozo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fb96cc55"
+}
